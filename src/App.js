@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>what plugin do we need for autocompletion in jsx</p>
+        
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -17,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          hello Kelly and world
+          Welcome to Codaisseur
         </a>
       </header>
     </div>
