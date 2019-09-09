@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome to Codaisseur
+          Welcome to Codaisseur, hello ...
         </a>
       </header>
     </div>
